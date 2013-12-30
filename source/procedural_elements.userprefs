@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\tree.js">
+    <Files>
+      <File FileName="Assets\Scripts\tree.js" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\demonstration.js" Line="20" Column="2" />
+      <File FileName="Assets\Scripts\treeGenerator.js" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
